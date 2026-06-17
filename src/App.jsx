@@ -1,7 +1,7 @@
 import { useState, useEffect, useRef } from "react";
 
-const WS_URL = "wss://accent-demand-marina-phillips.trycloudflare.com/ws";
-const API_URL = "https://accent-demand-marina-phillips.trycloudflare.com";
+const WS_URL = "wss://evaluated-due-warrant-hide.trycloudflare.com/ws";
+const API_URL = "https://evaluated-due-warrant-hide.trycloudflare.com";
 
 function formatDate(isoString) {
   if (!isoString) return "-";
